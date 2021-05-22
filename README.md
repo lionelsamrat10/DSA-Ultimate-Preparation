@@ -1,6 +1,7 @@
 # DSA-Ultimate-Preparation
 Ultimate DSA Preparation for Cracking Coding Interviews
 
+## Array Problems
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
 | 1              | Reverse an array          | ✅             | 
