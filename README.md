@@ -1,7 +1,8 @@
 # DSA-Ultimate-Preparation
-Ultimate DSA Preparation for Cracking Coding Interviews
+Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 + Striver's List)
 
 ## Array Problems
+
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
 | 1              | Reverse an array          | ✅             | 
