@@ -12,3 +12,8 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | 5              | Find Sqrt(x) Using Binary Search (Striver's List)| ✅|
 | 6              | Search in Rotated Sorted Array (Striver's List)| ✅|
 | 7              | Sort an array of 0, 1 and 2's (Dutch National Flag Problem)| ✅|
+
+## Stack Problems
+| Serial Number  | Problem Name              | Solution Status|
+| :---:          |     :---:                 |       :---:    |
+| 1              | Evaluate an expression using Reverse Polish Notation | ✅             | 
