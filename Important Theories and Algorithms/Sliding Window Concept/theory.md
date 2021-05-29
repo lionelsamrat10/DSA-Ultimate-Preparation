@@ -60,7 +60,7 @@ the outer for loop starts with the starting element of the block of k elements a
 		int n = arr.length;
 		System.out.println(maxSum(arr, n, k));
 	}
-}
+	}
 
 It can be observed from the above code that the time complexity is O(k*n),
 as it contains two nested loops.It can be observed from the above code that the time complexity is O(k*n) as it contains two nested loops.
@@ -135,7 +135,7 @@ code for the above description :
 		int n = arr.length;
 		System.out.println(maxSum(arr, n, k));
 	}
-}
+	}
 
 Now, it is quite obvious that the Time Complexity is linear as we can see that only one loop runs in our code. Hence, our Time Complexity is O(n).
 
