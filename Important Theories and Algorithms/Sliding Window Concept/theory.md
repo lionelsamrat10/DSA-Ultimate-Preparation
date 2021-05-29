@@ -29,7 +29,8 @@ the outer for loop starts with the starting element of the block of k elements a
 // O(n*k) solution for finding
 // maximum sum of a subarray
 // of size k
-class GFG {
+
+	class GFG {
 	// Returns maximum sum in
 	// a subarray of size k.
 	static int maxSum(int arr[], int n, int k)
@@ -95,8 +96,8 @@ code for the above description :
 // O(n) solution for finding
 // maximum sum of a subarray
 // of size k
-class GFG {
-
+	
+	class GFG {
 	// Returns maximum sum in
 	// a subarray of size k.
 	static int maxSum(int arr[], int n, int k)
