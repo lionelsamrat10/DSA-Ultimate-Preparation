@@ -1,3 +1,4 @@
+<h1 text-align="center">Sliding Window Technique</h1>
 This technique shows how a nested for loop in some problems can be converted to a single for loop to reduce the time complexity.
 Let’s start with a problem for illustration where we can apply this technique – 
 
