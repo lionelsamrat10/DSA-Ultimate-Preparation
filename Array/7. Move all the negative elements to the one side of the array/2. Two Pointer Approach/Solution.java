@@ -1,3 +1,6 @@
+// T(n) = O(n)
+// S(n) = O(1)
+
 class Solution {
     //Function to rearrange the array with negative elements, moved at the beginning of the array
     public static void rearrange(int[] arr, int left, int right){
