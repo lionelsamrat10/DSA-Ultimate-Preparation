@@ -18,3 +18,8 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
 | 1              | Evaluate an expression using Reverse Polish Notation | ✅             | 
+
+## Linked List Problems
+| Serial Number  | Problem Name              | Solution Status|
+| :---:          |     :---:                 |       :---:    |
+| 1              | Find whether a Linked List has Cycle or not(Used Floyd's Algorithm) | ✅             | 
