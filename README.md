@@ -22,4 +22,5 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 ## Linked List Problems
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
-| 1              | Find whether a Linked List has Cycle or not(Used Floyd's Algorithm) | ✅             | 
+| 1              | Find whether a Linked List has cycle or not(Used Floyd's Algorithm) | ✅             | 
+| 2              | Find the starting point of the cycle in the Linked List(Used Floyd's Algorithm) | ✅             | 
