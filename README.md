@@ -25,3 +25,4 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | 1              | Find whether a Linked List has cycle or not(Used Floyd's Algorithm) | ✅             | 
 | 2              | Find the starting point of the cycle in the Linked List(Used Floyd's Algorithm) | ✅             | 
 | 3              | Find the point of intersection of two linked lists | ✅             | 
+| 4              | Remove Nth node from the end of a linked list | ✅             | 
