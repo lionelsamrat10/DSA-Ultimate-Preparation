@@ -31,3 +31,9 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
 | 1              | Find the minimum element in BST | ✅             | 
+
+## Binary Problems
+| Serial Number  | Problem Name              | Solution Status|
+| :---:          |     :---:                 |       :---:    |
+| 1              | Left View of a Binary Tree | ✅             | 
+| 2              | Right View of a Binary Tree | ✅             | 
