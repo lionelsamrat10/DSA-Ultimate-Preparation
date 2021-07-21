@@ -26,6 +26,7 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | 2              | Find the starting point of the cycle in the Linked List(Used Floyd's Algorithm) | ✅             | 
 | 3              | Find the point of intersection of two linked lists | ✅             | 
 | 4              | Remove Nth node from the end of a linked list | ✅             | 
+| 5              | Merge Sort on a linked list | ✅             | 
 
 ## BST Problems
 | Serial Number  | Problem Name              | Solution Status|
