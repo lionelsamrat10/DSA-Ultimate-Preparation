@@ -33,10 +33,15 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | :---:          |     :---:                 |       :---:    |
 | 1              | Find the minimum element in BST | ✅             | 
 
-## Binary Problems
+## Binary Tree Problems
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
 | 1              | Left View of a Binary Tree | ✅             | 
 | 2              | Right View of a Binary Tree | ✅             | 
 | 3              | Level Order Traversal of a Binary Tree | ✅             | 
 | 4              | Level Order Traversal of a Binary Tree in Reverse Order| ✅             | 
+
+## Dynamic Programming Problems
+| Serial Number  | Problem Name              | Solution Status|
+| :---:          |     :---:                 |       :---:    |
+| 1              | Partition Equal Subset Sum | ✅             | 
