@@ -45,3 +45,4 @@ Ultimate DSA Preparation for Cracking Coding Interviews (Love Babbar Final 450 +
 | Serial Number  | Problem Name              | Solution Status|
 | :---:          |     :---:                 |       :---:    |
 | 1              | Partition Equal Subset Sum | ✅             | 
+| 2              | Coin Change Problem | ✅             | 
